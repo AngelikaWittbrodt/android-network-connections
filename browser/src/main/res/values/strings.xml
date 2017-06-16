@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Internet Browser</string>
+    <string name="go">Go</string>
+    <string name="enter_url_address">Enter URL address</string>
+    <string name="url_address_error">URL address is not correct</string>
+    <string name="no_connection_error">Connect to the Internet</string>
+</resources>
